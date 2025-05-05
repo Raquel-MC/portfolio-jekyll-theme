@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Using github pages"
+title: "Portfolio Raquel Munoz"
 ---
+
+I'm from Spain and have been living in London for some time. I currently work as an architect, collaborating primarily on commercial buildings in London and abroad. I'm open to new possibilities in this and other fields. As for my personal interests, I would say reading, listening, reflecting, and exploring new places, especially walking, are my main hobbies.
 
 This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out [this article](https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages).
 
